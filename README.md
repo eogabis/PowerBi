@@ -7,4 +7,9 @@ Para isso utilizei a ferramenta PowerBi para desenvolver um ambiente onde será 
 Youtube: https://youtu.be/iYh8Tdl7Wgc
 
 
+div align="center"
+img src="https://github.com/eogabis/PowerBi/issues/1#issue-2269907534" width="0px" /
+/div
+
+
 
